@@ -194,3 +194,8 @@ sudo mv kubectl-argo-rollouts-linux-amd64 /usr/local/bin/kubectl-argo-rollouts
 >dashbord responds accordingly
 ![alt text](IMG-Screenshots/Screenshot_20260814_034602.png)
 
+![alt text](IMG-Screenshots/Screenshot_20260814_034718.png)
+
+![alt text](IMG-Screenshots/Screenshot_20260814_034758.png)
+
+![alt text](IMG-Screenshots/Screenshot_20260814_035026.png)
