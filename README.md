@@ -21,3 +21,7 @@ kubectl apply -n argo-rollouts -f https://github.com/argoproj/argo-rollouts/rele
 ![alt text](IMG-Screenshots/Screenshot_20260814_023046.png)
 
 ![alt text](IMG-Screenshots/Screenshot_20260814_022908.png)
+
+![alt text](IMG-Screenshots/Screenshot_20260814_024324.png)
+
+![alt text](IMG-Screenshots/Screenshot_20260814_024400.png)
