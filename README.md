@@ -180,3 +180,9 @@ sudo mv kubectl-argo-rollouts-linux-amd64 /usr/local/bin/kubectl-argo-rollouts
 
 **Create Service**
 ![alt text](IMG-Screenshots/Screenshot_20260814_033317.png)
+
+![alt text](IMG-Screenshots/Screenshot_20260814_033409.png)
+
+![alt text](IMG-Screenshots/Screenshot_20260814_034136.png)
+
+![alt text](IMG-Screenshots/Screenshot_20260814_034323.png)
