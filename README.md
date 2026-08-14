@@ -186,3 +186,5 @@ sudo mv kubectl-argo-rollouts-linux-amd64 /usr/local/bin/kubectl-argo-rollouts
 ![alt text](IMG-Screenshots/Screenshot_20260814_034136.png)
 
 ![alt text](IMG-Screenshots/Screenshot_20260814_034323.png)
+
+**Modify the image to v2 by editing the rollout.yaml file or use the command `kubectl-argo-rollouts set image boardgame boardgame=bjrules/broargame:v2 -n webapps`
