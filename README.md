@@ -26,6 +26,8 @@ kubectl apply -n argo-rollouts -f https://github.com/argoproj/argo-rollouts/rele
 
 ![alt text](IMG-Screenshots/Screenshot_20260814_024324.png)
 
+`docker login -u bjrules` to login to dockerhub so as to enable docker push
+
 ![alt text](IMG-Screenshots/Screenshot_20260814_024400.png)
 
 ![alt text](IMG-Screenshots/Screenshot_20260814_024611.png)
