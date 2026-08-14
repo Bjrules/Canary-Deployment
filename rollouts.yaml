@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: boardgame
-        image: adijaiswal/boardgame:v1
+        image: bjrules/broadgame:v1
         ports:
         - containerPort: 8080
   strategy:
