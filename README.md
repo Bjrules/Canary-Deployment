@@ -25,6 +25,8 @@ kubectl apply -n argo-rollouts -f https://github.com/argoproj/argo-rollouts/rele
 
 ![alt text](IMG-Screenshots/Screenshot_20260814_030019.png)
 
+![alt text](IMG-Screenshots/Screenshot_20260814_030308.png)
+
 > Since the boardgame is a java application developed with jda17, then we have to install jdk17: `sudo apt install openjdk-17-jre-headless` Maven: `sudo apt install maven` so as to be able to compile and create a jar file.  `mvn clean package` . alson install docker `sudo apt install docker.io` so as to be able to build and ship 
 ![alt text](IMG-Screenshots/Screenshot_20260814_023046.png)
 
@@ -173,3 +175,8 @@ sudo mv kubectl-argo-rollouts-linux-amd64 /usr/local/bin/kubectl-argo-rollouts
 
 ```
 
+**Now create the Custom Resource Definition CRD in kubernetes called Rollout**
+![alt text](IMG-Screenshots/Screenshot_20260814_032830.png)
+
+**Create Service**
+![alt text](IMG-Screenshots/Screenshot_20260814_033317.png)
