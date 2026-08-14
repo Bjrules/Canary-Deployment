@@ -27,7 +27,7 @@ kubectl apply -n argo-rollouts -f https://github.com/argoproj/argo-rollouts/rele
 
 ![alt text](IMG-Screenshots/Screenshot_20260814_030308.png)
 
-> Since the boardgame is a java application developed with jda17, then we have to install jdk17: `sudo apt install openjdk-17-jre-headless` Maven: `sudo apt install maven` so as to be able to compile and create a jar file.  `mvn clean package` . alson install docker `sudo apt install docker.io` so as to be able to build and ship 
+> Since the boardgame is a java application developed with jdk17, then we have to install jdk17: `sudo apt install openjdk-17-jre-headless` Maven: `sudo apt install maven` so as to be able to compile and create a jar file.  `mvn clean package` . also install docker `sudo apt install docker.io` so as to be able to build and ship to dockerhub
 ![alt text](IMG-Screenshots/Screenshot_20260814_023046.png)
 
 ![alt text](IMG-Screenshots/Screenshot_20260814_022908.png)
