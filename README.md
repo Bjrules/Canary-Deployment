@@ -6,6 +6,8 @@ Canary deployment can be performed using istio and argo-rollout but for the sake
 - [x] Create EKS-Cluster and install:[awscli, Terraform, kubectl and eksctl]
 
 - [x] install Argo Rollout on EKS Cluster
+    
+- [x] Ensure to get two docker images v1 and v2 of the same application 
 
 ```
 kubectl create namespace argo-rollouts
